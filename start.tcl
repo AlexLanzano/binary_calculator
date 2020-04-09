@@ -1,0 +1,3 @@
+open_project binary_calculator.xpr
+open_hw_manager
+connect_hw_server
